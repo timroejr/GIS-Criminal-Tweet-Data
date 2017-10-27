@@ -1,0 +1,21 @@
+PODS:
+  - Bolts/Tasks (1.8.4)
+  - DateTools (2.0.0)
+  - GZIP (1.2.1)
+  - Parse (1.15.1):
+    - Bolts/Tasks (~> 1.8)
+
+DEPENDENCIES:
+  - DateTools
+  - GZIP
+  - Parse
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  DateTools: 933ac9c490f21f92127cf690ccd8c397e0126caf
+  GZIP: 7ee835f989fb3c6ea79005fc90b8fa6af710a70d
+  Parse: b7a77b20b8a6dede8058da1e2b339593578ce158
+
+PODFILE CHECKSUM: cf8d6bf205e0a347b73405e7d0a01120086561fa
+
+COCOAPODS: 1.3.1
